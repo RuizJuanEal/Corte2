@@ -1,0 +1,173 @@
+{
+    "nombre_equipo" : "Selección de futbol de Gales",
+    "nombre_pais": "Gales",
+    "motes": [ 
+            "Y Dreigiau","Los Dragones"
+    ],
+    "Colores":[
+        "rojo","blanco","verde"
+    ],
+    "titulos_ganados": null,
+    "capitan_del_equipo" : "Gareth Bale",
+    "director_técnico" : "Rob Page",
+    "escudo":"https://logodownload.org/wp-content/uploads/2022/07/wales-national-football-team-logo-0.png",
+    "abreviación" : "WAL",
+    "anotador_máximo" : {
+        "jugador":"Gareth_Bale",
+        "numero_anotaciones": 39
+    },
+    
+    "estadio" :
+    {
+        "nombre_estadio": "Cardiff City Stadium",
+        "ápodo_estadio": null,
+        "ubicación":"Cardiff",
+        "capacidad": 33.280
+    },
+
+    "jugadores": 
+    [
+        {
+
+            "nombre" :"Wayne",
+            "apellido": "Hennessey",
+            "edad": 35,
+            "altura_m": 1.98,
+            "lugar_de_nacimiento": "Gwynedd",
+            "posición": "Portero",
+            "club_de_futbol": "Crystal Palace",
+            "numero_de_camiseta": 1
+
+        },
+
+        {
+
+            "nombre" :"Chris",
+            "apellido": "Gunter",
+            "edad": 33,
+            "altura_m": 1.80,
+            "lugar_de_nacimiento": "Newport",
+            "posición": "Defensa",
+            "club_de_futbol": "Charlton Athletic",
+            "numero_de_camiseta": 2
+
+        },
+
+        {
+
+            "nombre" :"Connor",
+            "apellido": "Roberts",
+            "edad": 27,
+            "altura_m": 1.73,
+            "lugar_de_nacimiento": "Neath",
+            "posición": "Defensa",
+            "club_de_futbol": "Swansea City",
+            "numero_de_camiseta": 14
+
+        },
+
+        {
+
+            "nombre" :"Chris",
+            "apellido": "Mepham",
+            "edad": 27,
+            "altura_m": 1.91,
+            "lugar_de_nacimiento": "Londres",
+            "posición": "Defensa",
+            "club_de_futbol": "Bournemouth",
+            "numero_De_camiseta" : 22
+
+        },
+
+        {
+
+            "nombre" :"Joe",
+            "apellido": "Rodon",
+            "edad": 24,
+            "altura_m": 1.93,
+            "lugar_de_nacimiento": "Swansea",
+            "posición": "Defensa",
+            "club_de_futbol": "Tottenham Hotspur",
+            "numero_De_camiseta": 6
+
+        },
+
+        {
+
+            "nombre" :"Jonny ",
+            "apellido": "Williams",
+            "edad": 28,
+            "altura_m": 1.68,
+            "lugar_de_nacimiento": "Pembury",
+            "posición": "Mediocampista",
+            "club_de_futbol": "Cardiff City",
+            "numero_De_camiseta": 8
+
+        },
+
+        {
+
+            "nombre" :"Harry",
+            "apellido": "Wilson",
+            "edad": 25,
+            "altura_m": 1.73,
+            "lugar_de_nacimiento": "Wrexham",
+            "posición": "Mediocampista",
+            "club_de_futbol": "Cardiff City",
+            "numero_De_camiseta": 10
+
+        },
+
+        {
+
+            "nombre" :"Ethan",
+            "apellido": "Ampadu",
+            "edad": 22,
+            "altura_m": 1.82,
+            "lugar_de_nacimiento": "Exeter",
+            "posición": "Mediocampista",
+            "club_de_futbol": "Sheffield United",
+            "numero_De_camiseta": 15
+
+        },
+
+        {
+
+            "nombre" :"Daniel",
+            "apellido": "James",
+            "edad": 24,
+            "altura_m": 1.70,
+            "lugar_de_nacimiento": "Beverly",
+            "posición": "Mediocampista",
+            "club_de_futbol": "Manchester United",
+            "numero_De_camiseta": 20
+
+        },
+
+        {
+
+            "nombre" :"Gareth",
+            "apellido": "Bale",
+            "edad": 33,
+            "altura": 1.85,
+            "lugar_de_nacimiento": "Cardiff",
+            "posición": "Delantero",
+            "club_de_futbol": "Real Madrid",
+            "numero_De_camiseta": 11
+
+        },
+
+        {
+
+            "nombre" :"Tom",
+            "apellido": "Lawrence",
+            "edad": 28,
+            "altura": 1.75,
+            "lugar_de_nacimiento": "Wrexham",
+            "posición": "Delantero",
+            "club_de_futbol": "Derby County",
+            "numero_De_camiseta": 7
+
+        }
+    ]
+}
